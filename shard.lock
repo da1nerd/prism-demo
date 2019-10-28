@@ -1,0 +1,30 @@
+version: 1.0
+shards:
+  crystglfw:
+    github: neutrinog/CrystGLFW
+    commit: 022b7e1bd6afe16507b66dbe50377d3bcd9d5f01
+
+  lib_gl:
+    github: calebuharrison/LibGL
+    commit: fed2ca7f6cd15efea94458b234c3ca5b0a8ffc5e
+
+  lib_glfw:
+    github: calebuharrison/LibGLFW
+    commit: 4cf7c3774f278d7e044bb30a35b104f5b12fdc53
+
+  matrix:
+    github: Exilor/matrix
+    commit: 21b6faf1480ece574180abff2ee675483314af38
+
+  prism:
+    github: neutrinog/prism
+    commit: 8d383aed4903ef184c4531555ed2250cd93c253d
+
+  stumpy_core:
+    github: stumpycr/stumpy_core
+    version: 1.9.1
+
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: 4.5.2
+
