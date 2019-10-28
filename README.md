@@ -1,10 +1,8 @@
 # prism-demo
 
-TODO: Write a description here
+This is a simple game demonstrating the [Prism](https://github.com/neutrinog/prism) game engine.
 
-## Installation
-
-TODO: Write installation instructions here
+[![Game demo](./samples/game_thumbnail.png)](https://youtu.be/-IyXs2Dqs2o)
 
 ## Usage
 
