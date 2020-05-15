@@ -1,3 +1,6 @@
+> This was based on a very early version of my [Prism](https://github.com/neutrinog/prism) game engine.
+> I learned a lot from this proof of concept but will not work on this game further.
+
 # prism-demo
 
 This is a simple game demonstrating the [Prism](https://github.com/neutrinog/prism) game engine.
